@@ -47,10 +47,9 @@ const  Navbar = () => {
                         {/*Menu items */}
                         <div className='hidden lg:block'>
                             <ul className='flex items-center gap-4'>
-                                {
-                                     MenuLinks.map((data, index) => (
-                                        <li key={index}>
-                                            <a href={data.link}
+                                {MenuLinks.map((data, index) => (
+                                    <li key={index}>
+                                        <a href={data.link}
                                             className='inline-block px-4
                                             font-semibold text-gray-500
                                             hover:text-black 
@@ -61,6 +60,11 @@ const  Navbar = () => {
                                             </a>
                                         </li>
                                     ))}
+                        {/*Dropdown */}
+                                    <li>
+                                        <a href="#" className=''>
+                                        </a>
+                                    </li>
                             </ul>
                         </div>
                     </div>
