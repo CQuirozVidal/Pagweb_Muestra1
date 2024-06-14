@@ -87,7 +87,7 @@ const  Navbar = () => {
                                             <span>
                                             <FaCaretDown className=' group hover:rotate-180
                                             duration-300'/>
-                                         </span>
+                                        </span>
                                     </a>
 
                                     {/*Dropdown Links*/}
