@@ -24,7 +24,7 @@ function Category() {
                                 With</p>
                             <p className='text-4xl xl:text-5xl font-bold
                             opacity-40 mb-2'>
-                                Laptop</p>
+                                Console</p>
                             <Button
                                 text="Browse"
                                 bgColor={"bg-primary"}
@@ -48,7 +48,7 @@ function Category() {
                             <p className='mb-[2px] text-white-400'>Enjoy</p>
                             <p className='text-2xl font-semibold mb-[2px]'>With</p>
                             <p className='text-4xl xl:text-5xl font-bold
-                            opacity-20 mb-2'>Earphone</p>
+                            opacity-20 mb-2'>Oculus</p>
                             <Button
                                 text="Browse"
                                 bgColor={"bg-white"}
@@ -74,7 +74,7 @@ function Category() {
                                 With</p>
                             <p className='text-4xl xl:text-5xl font-bold
                             opacity-40 mb-2'>
-                                Gadget</p>
+                                Speakers</p>
                             <Button
                                 text="Browse"
                                 bgColor={"bg-white"}
